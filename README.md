@@ -1,6 +1,8 @@
 # Easy Garage
-It was my first real important project in python. It is for my dad,he works in a car workshop.
-He has always lots of clients and to manage easier them I create this program for him.
+It was my first real important project in python. I dedicate it to my dad,he works in a car workshop.
+He always has got lots of clients and to manage easier them I create this program for him.
+
+♥♥♥ FUN FACT = My dad ,actually, never used it due legal purpose. But he appreciates it ♥♥♥
 
 You can edit the code for your activity ;)
 
