@@ -9,8 +9,6 @@ You can edit the code for your activity ;)
 
 I wrote it when i was 13 yr old (December 2020).
 
-YEAH, I know the API key is saved clear but I don't care about it.
-
 # Requirements
 ↓↓↓ All requirements are alredy installed when you install python but if you want to know them ↓↓↓
 
