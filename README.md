@@ -2,7 +2,7 @@
 It was my first real important project in python. I dedicate it to my dad,he works in a car workshop.
 He always has got lots of clients and to manage easier them I create this program for him.
 
-♥♥♥ FUN FACT = My dad ,actually, never used it due legal purpose. But he appreciates it ♥♥♥
+♥♥♥ FUN FACT = My dad ,actually, never used it due legal purpose. But he appreciated it ♥♥♥
 
 You can edit the code for your activity ;)
 
